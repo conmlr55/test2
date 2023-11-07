@@ -1,0 +1,223 @@
+COUNTRY;GDP (BILLIONS);CODE
+Afghanistan;1;AFG
+Albania;1;ALB
+Algeria;1;DZA
+American Samoa;1;ASM
+Andorra;1;AND
+Angola;1;AGO
+Anguilla;1;AIA
+Antigua and Barbuda;1;ATG
+Argentina;1;ARG
+Armenia;1;ARM
+Aruba;1;ABW
+Australia;1;AUS
+Austria;1;AUT
+Azerbaijan;1;AZE
+Bahamas, The;1;BHM
+Bahrain;1;BHR
+Bangladesh;1;BGD
+Barbados;1;BRB
+Belarus;1;BLR
+Belgium;1;BEL
+Belize;1;BLZ
+Benin;1;BEN
+Bermuda;1;BMU
+Bhutan;1;BTN
+Bolivia;1;BOL
+Bosnia and Herzegovina;1;BIH
+Botswana;1;BWA
+Brazil;1;BRA
+British Virgin Islands;1;VGB
+Brunei;1;BRN
+Bulgaria;1;BGR
+Burkina Faso;1;BFA
+Burma;1;MMR
+Burundi;1;BDI
+Cabo Verde;1;CPV
+Cambodia;1;KHM
+Cameroon;1;CMR
+Canada;1;CAN
+Cayman Islands;1;CYM
+Central African Republic;1;CAF
+Chad;1;TCD
+Chile;1;CHL
+China;1;CHN
+Colombia;1;COL
+Comoros;1;COM
+Congo, Democratic Republic of the;1;COD
+Congo, Republic of the;1;COG
+Cook Islands;1;COK
+Costa Rica;1;CRI
+Cote d'Ivoire;1;CIV
+Croatia;1;HRV
+Cuba;1;CUB
+Curacao;1;CUW
+Cyprus;1;CYP
+Czech Republic;1;CZE
+Denmark;1;DNK
+Djibouti;1;DJI
+Dominica;1;DMA
+Dominican Republic;1;DOM
+Ecuador;1;ECU
+Egypt;1;EGY
+El Salvador;1;SLV
+Equatorial Guinea;1;GNQ
+Eritrea;1;ERI
+Estonia;1;EST
+Ethiopia;1;ETH
+Falkland Islands (Islas Malvinas);1;FLK
+Faroe Islands;1;FRO
+Fiji;1;FJI
+Finland;1;FIN
+France;1;FRA
+French Polynesia;1;PYF
+Gabon;1;GAB
+Gambia, The;1;GMB
+Georgia;1;GEO
+Germany;1;DEU
+Ghana;1;GHA
+Gibraltar;1;GIB
+Greece;1;GRC
+Greenland;1;GRL
+Grenada;1;GRD
+Guam;1;GUM
+Guatemala;1;GTM
+Guernsey;1;GGY
+Guinea-Bissau;1;GNB
+Guinea;1;GIN
+Guyana;1;GUY
+Haiti;1;HTI
+Honduras;1;HND
+Hong Kong;1;HKG
+Hungary;1;HUN
+Iceland;1;ISL
+India;1;IND
+Indonesia;1;IDN
+Iran;1;IRN
+Iraq;1;IRQ
+Ireland;1;IRL
+Isle of Man;1;IMN
+Israel;1;ISR
+Italy;1;ITA
+Jamaica;1;JAM
+Japan;1;JPN
+Jersey;1;JEY
+Jordan;1;JOR
+Kazakhstan;1;KAZ
+Kenya;1;KEN
+Kiribati;1;KIR
+Korea, North;1;PRK
+Korea, South;1;KOR
+Kosovo;1;KSV
+Kuwait;1;KWT
+Kyrgyzstan;1;KGZ
+Laos;1;LAO
+Latvia;1;LVA
+Lebanon;1;LBN
+Lesotho;1;LSO
+Liberia;1;LBR
+Libya;1;LBY
+Liechtenstein;1;LIE
+Lithuania;1;LTU
+Luxembourg;1;LUX
+Macau;1;MAC
+Macedonia;1;MKD
+Madagascar;1;MDG
+Malawi;1;MWI
+Malaysia;1;MYS
+Maldives;1;MDV
+Mali;1;MLI
+Malta;1;MLT
+Marshall Islands;1;MHL
+Mauritania;1;MRT
+Mauritius;1;MUS
+Mexico;1;MEX
+Micronesia, Federated States of;1;FSM
+Moldova;1;MDA
+Monaco;1;MCO
+Mongolia;1;MNG
+Montenegro;1;MNE
+Morocco;1;MAR
+Mozambique;1;MOZ
+Namibia;1;NAM
+Nepal;1;NPL
+Netherlands;1;NLD
+New Caledonia;1;NCL
+New Zealand;1;NZL
+Nicaragua;1;NIC
+Nigeria;1;NGA
+Niger;1;NER
+Niue;1;NIU
+Northern Mariana Islands;1;MNP
+Norway;1;NOR
+Oman;1;OMN
+Pakistan;1;PAK
+Palau;1;PLW
+Panama;1;PAN
+Papua New Guinea;1;PNG
+Paraguay;1;PRY
+Peru;1;PER
+Philippines;1;PHL
+Poland;1;POL
+Portugal;1;PRT
+Puerto Rico;1;PRI
+Qatar;1;QAT
+Romania;1;ROU
+Russia;1;RUS
+Rwanda;1;RWA
+Saint Kitts and Nevis;1;KNA
+Saint Lucia;1;LCA
+Saint Martin;1;MAF
+Saint Pierre and Miquelon;1;SPM
+Saint Vincent and the Grenadines;1;VCT
+Samoa;1;WSM
+San Marino;1;SMR
+Sao Tome and Principe;1;STP
+Saudi Arabia;1;SAU
+Senegal;1;SEN
+Serbia;1;SRB
+Seychelles;1;SYC
+Sierra Leone;1;SLE
+Singapore;1;SGP
+Sint Maarten;1;SXM
+Slovakia;1;SVK
+Slovenia;1;SVN
+Solomon Islands;1;SLB
+Somalia;1;SOM
+South Africa;1;ZAF
+South Sudan;1;SSD
+Spain;1;ESP
+Sri Lanka;1;LKA
+Sudan;1;SDN
+Suriname;1;SUR
+Swaziland;1;SWZ
+Sweden;1;SWE
+Switzerland;1;CHE
+Syria;1;SYR
+Taiwan;1;TWN
+Tajikistan;1;TJK
+Tanzania;1;TZA
+Thailand;1;THA
+Timor-Leste;1;TLS
+Togo;1;TGO
+Tonga;1;TON
+Trinidad and Tobago;1;TTO
+Tunisia;1;TUN
+Turkey;1;TUR
+Turkmenistan;1;TKM
+Tuvalu;1;TUV
+Uganda;1;UGA
+Ukraine;1;UKR
+United Arab Emirates;1;ARE
+United Kingdom;1;GBR
+United States;3;USA
+Uruguay;1;URY
+Uzbekistan;1;UZB
+Vanuatu;1;VUT
+Venezuela;1;VEN
+Vietnam;1;VNM
+Virgin Islands;1;VGB
+West Bank;1;WBG
+Yemen;1;YEM
+Zambia;1;ZMB
+Zimbabwe;1;ZWE
